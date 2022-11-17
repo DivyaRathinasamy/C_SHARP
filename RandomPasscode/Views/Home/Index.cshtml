@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Password
+
+<form asp-controller="Home" asp-action="Generate" method="POST">
+    <div class="form-group">
+        <div>Generate Random Passcode #@Context.Session.GetInt32("Count")</div>
+        <div>@Context.Session.GetString("tempPW")</div>
+    </div>
+    <button class="btn btn-outline-primary">Generate</button>
+</form>

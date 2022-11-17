@@ -1,0 +1,15 @@
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\bin\Debug\net6.0\LINQ_Eruption.exe
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\bin\Debug\net6.0\LINQ_Eruption.deps.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\bin\Debug\net6.0\LINQ_Eruption.runtimeconfig.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\bin\Debug\net6.0\LINQ_Eruption.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\bin\Debug\net6.0\LINQ_Eruption.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\refint\LINQ_Eruption.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\LINQ_Eruption.genruntimeconfig.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\LINQ_Eruption\obj\Debug\net6.0\ref\LINQ_Eruption.dll

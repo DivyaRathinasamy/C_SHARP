@@ -1,0 +1,15 @@
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\bin\Debug\net6.0\C sharp_funds.exe
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\bin\Debug\net6.0\C sharp_funds.deps.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\bin\Debug\net6.0\C sharp_funds.runtimeconfig.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\bin\Debug\net6.0\C sharp_funds.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\bin\Debug\net6.0\C sharp_funds.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\refint\C sharp_funds.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\C sharp_funds.genruntimeconfig.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\C sharp_funds\obj\Debug\net6.0\ref\C sharp_funds.dll

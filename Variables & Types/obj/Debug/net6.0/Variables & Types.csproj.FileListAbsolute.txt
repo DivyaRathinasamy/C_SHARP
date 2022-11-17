@@ -1,0 +1,15 @@
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\bin\Debug\net6.0\Variables & Types.exe
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\bin\Debug\net6.0\Variables & Types.deps.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\bin\Debug\net6.0\Variables & Types.runtimeconfig.json
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\bin\Debug\net6.0\Variables & Types.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\bin\Debug\net6.0\Variables & Types.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\refint\Variables & Types.dll
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.pdb
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\Variables & Types.genruntimeconfig.cache
+C:\Users\divya\OneDrive\Documents\Coding Dojo\C SHARP\Variables & Types\obj\Debug\net6.0\ref\Variables & Types.dll

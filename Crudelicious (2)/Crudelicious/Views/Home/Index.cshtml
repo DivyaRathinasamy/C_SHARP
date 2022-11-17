@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Dish>
+<!-- <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+-->
+<a href="/dishes/new">Create a Dish</a>
+
+@* @foreach(Dish dish in Model)
+{
+    <div>
+        <a asp-controller="Dishes" asp-action="GetOneDish" asp-route-oneDishId="@dish.DishId">@dish.Name</a> by @dish.Chef
+    </div> *@

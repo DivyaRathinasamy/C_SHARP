@@ -1,0 +1,35 @@
+@model List<Dish>
+
+@Context.Session.GetInt32("UUID")
+
+
+
+<a href="/dishes">Home</a> | <a href="/dishes/new">Add a Dish</a>
+
+<h2 class="text-center">All Dishes!!</h2>
+<hr />
+
+@foreach (Dish dish in Model) {
+  <div class="card shadow rounded mx-auto w-75 mb-3">
+    <h4 class="card-title text-center bg-dark text-light py-2 rounded-top">
+      @dish.Name Made By @dish.Chef
+    </h4>
+
+    <div class="card-body"> 
+
+      <p class="card-text">Calories: @dish.Calories</p>
+      <p class="card-text">Tastiness: @dish.Tastiness</p>
+      <small class="text-muted"> Submitted on: @dish.CreatedAt </small>
+    </div>
+    <a
+        asp-controller ="Dish"
+        asp-action ="GetOneDish"
+        asp-route-oneDishId ="@dish.DishId"
+        class="btn btn-outline-info"
+    >
+
+    View Dish
+
+    </a>
+  </div>
+}

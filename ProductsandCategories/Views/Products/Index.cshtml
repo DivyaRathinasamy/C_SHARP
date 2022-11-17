@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Product
+
+<div class="text-center">
+    <h1 class="display-4">Products And Categories</h1>
+
+
+</div>
+
+
+
+<div class="d-flex text-center justify-content-between mb-4">
+    <div class="d-flex text-center mx-auto">
+        <h1>Products</h1>
+        <div class="border border-dark bg-dark mx-3"></div>
+        <h1><a href="categories">Categories</a></h1>
+    </div>
+</div>
+<div class="d-flex justify-content-between">
+    <div>
+        <h2>New Product</h2>
+        <form class="mt-5" method="POST" asp-action="CreateP" asp-controller="Products">
+            <div class="form-group justify-content-between">
+                <span asp-validation-for="Name"></span>
+                <label asp-for="Name" class="mr-2"></label>
+                <br>
+                <input asp-for="Name">
+            </div>
+            <div class="form-group">
+                <span asp-validation-for="Description"></span>
+                <label asp-for="Description" class="d-block"></label>
+                <textarea asp-for="Description"></textarea>
+            </div>
+            <div class="form-group justify-content-between">
+                <span asp-validation-for="Price"></span>
+                <label asp-for="Price" class="mr-2"></label>
+                <br>
+                <input asp-for="Price">
+            </div>
+            <br>
+            <button>Create </button>
+            </br>
+        </form>
+
+        <div>
+            @foreach (Product product in ViewBag.Products)
+            {
+                <p>
+                    <a href="/products/{@product.ProductId}">@product.Name</a>
+                </p>
+            }
+        </div>
+

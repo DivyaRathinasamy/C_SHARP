@@ -1,0 +1,40 @@
+@model Category
+
+<div class="text-center">
+    <h1 class="display-4">Products And Categories</h1>
+
+
+</div>
+
+
+
+<div class="d-flex text-center justify-content-between mb-4">
+    <div class="d-flex text-center mx-auto">
+        <h1>Categories</h1>
+        <div class="border border-dark bg-dark mx-3"></div>
+        <h1><a href="categories">Products</a></h1>
+    </div>
+</div>
+<div class="d-flex justify-content-between">
+    <div>
+        <h2>New Category</h2>
+        <form class="mt-5" method="POST" asp-action="CreateC" asp-controller="Categories">
+            <div class="form-group justify-content-between">
+                <span asp-validation-for="Name"></span>
+                <label asp-for="Name" class="mr-2"></label>
+                <br>
+                <input asp-for="Name">
+            </div>
+            <br>
+            <button>Create </button>
+            </br>
+        </form>
+
+        <div>
+            @foreach (Category category in ViewBag.Categories)
+            {
+                <p>
+                    <a href="/categories/{@category.CategoryId}">@category.Name</a>
+                </p>
+            }
+        </div>
